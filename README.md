@@ -25,13 +25,13 @@ This project automates the following tasks:
 
 - Java
 - Selenium
-- Mavel
+- Maven
 - Extent Report
 - TestNG
 
 ## Presentation
 
-- A PowerPoint Presentation <a href="https://www.youtube.com/watch?v=iedYpxoEQl0">[here]</a>.
+- A PowerPoint Presentation <a href="">[here]</a>.
 - A Demo Video of the project <a href="https://www.youtube.com/watch?v=iedYpxoEQl0">[here]</a>.
 
 ## Contributors:
