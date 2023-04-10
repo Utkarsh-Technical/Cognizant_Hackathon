@@ -39,8 +39,8 @@ This project is developed by
 <a href = "https://github.com/Utkarsh-Technical/Cognizant_Hackathon/graphs/contributors">  
   <img src="https://contrib.rocks/image?repo=Utkarsh-Technical/Cognizant_Hackathon" />
   <img src="https://contrib.rocks/image?repo=AMITYADAV88744/as_fashion" />
+  <img src="https://contrib.rocks/image?repo=krp1998/chat-app" />
   - Parul Parashar
   - Agnibesh
   - Poornima
-  - Kundan
 </a>
