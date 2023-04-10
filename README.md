@@ -36,6 +36,11 @@ This project automates the following tasks:
 
 ## Contributors:
 This project is developed by
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">  
-  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+<a href = "https://github.com/Utkarsh-Technical/Cognizant_Hackathon/graphs/contributors">  
+  <img src="https://contrib.rocks/image?repo=Utkarsh-Technical/Cognizant_Hackathon" />
+  - Amit Yadav
+  - Parul Parashar
+  - Agnibesh
+  - Poornima
+  - Kundan
 </a>
